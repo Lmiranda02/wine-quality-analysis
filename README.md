@@ -44,8 +44,8 @@ Este proyecto utiliza el dataset público **Wine Quality Dataset**, disponible e
 ✅ Realizar un **análisis exploratorio de datos (EDA)** para identificar patrones y tendencias.  
 ✅ Aplicar **técnicas de machine learning** para predecir la calidad del vino.  
 ✅ Construir **visualizaciones avanzadas** para comunicar insights clave.  
-✅ Implementar un **dashboard interactivo** o API para mostrar resultados.  
-✅ Documentar todo el proceso con un enfoque profesional para portafolio.  
+✅ Implementar un **dashboard interactivo** para mostrar resultados.  
+✅ Documentar todo el proceso.  
 
 ---
 
@@ -64,8 +64,7 @@ Este proyecto sigue un **flujo estructurado** basado en el proceso de **Ciencia 
    - Evaluación del desempeño con métricas como **RMSE y F1-score**.  
 
 3️⃣ **Desarrollo de Aplicación** 🌍  
-   - Creación de un **dashboard interactivo** con **Streamlit**.  
-   - Implementación de una **API con FastAPI** para predicciones en tiempo real.  
+   - Creación de un **dashboard interactivo** en Power BI.    
 
 4️⃣ **Publicación y Presentación Profesional** 🚀  
    - Documentación clara con gráficos explicativos.  
@@ -97,9 +96,8 @@ wine-quality-analysis/
 ## 🔧 Tecnologías Utilizadas
 ✅ **Python** (Pandas, NumPy, Scikit-Learn, XGBoost)  
 ✅ **Jupyter Notebooks** para análisis interactivo  
-✅ **Matplotlib, Seaborn, Plotly** para visualización  
-✅ **FastAPI/Flask** para construir una API de predicción  
-✅ **Streamlit/Dash** para desarrollar un dashboard  
+✅ **Matplotlib, Seaborn, Plotly** para visualización 
+✅ **Power BI** para reportes interactivos.
 ✅ **Git & GitHub** para control de versiones  
 
 ---
@@ -112,11 +110,8 @@ wine-quality-analysis/
 ---
 
 ## 🚀 Siguientes Pasos
-1. **Realizar el análisis exploratorio de datos (EDA).**
-2. **Preprocesar los datos y seleccionar características relevantes.**
-3. **Construir y evaluar modelos de machine learning.**
-4. **Desarrollar una API o Dashboard interactivo.**
-5. **Publicar el proyecto con documentación completa en GitHub.**
+1. **Desarrollar una API o Dashboard interactivo.**
+2. **Publicar el proyecto con documentación completa en GitHub.**
 
 ---
 
